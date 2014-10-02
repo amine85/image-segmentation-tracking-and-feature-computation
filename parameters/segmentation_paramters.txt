@@ -1,0 +1,8 @@
+K 3
+minVolume 200
+sigmaGfilter 2
+numLevel 3
+clusterXY 7
+num_time_seeds 999
+save_seed_image 1
+maxVolume 300
